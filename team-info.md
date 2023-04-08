@@ -123,33 +123,11 @@ ETH Beijing Hackathon 的项目需要提交到本页，PR（Pull-Request）截�
 * 是否招募队员：接受，能够为合法化研究提供程序支持和技术支持，包括提供有效建议与实际操作。
 * 如何联系：WeChat ID: ltb192
 # 5. FolioView
-  1. 项目名称：
-    FolioView  
-  2. 所选赛道：
-    Open Research
-  3. 项目图片：
-    ![theme.png](https://github.com/z6m8n7ljw/ETHBeijing-FolioView/blob/main/theme.png)
-  4. 简介
-    - 本项目是一个面向 DeFi 小白用户的多钱包信息聚合/数据分析 all-in-one 工具，旨在为 Web3 新手用户降低参与 DeFi 活动的门槛
-    - 它提供简洁友好的看板界面，支持主流资产的余额、收益和分布查询
-    - 通过用户链上资产配置的投资组合数据，结合市场数据，分析构建用户风险承受能力的用户画像，并据此 mint SBT，作为 C 端用户 DID 社交展示，以及供给 B 端的用户链上资产标签数据
-    - 通过量化统计的数学模型，为用户推荐当前资产配置下的最优化投资组合，并给出与当前资产配置的风险/收益比较，为用户优化资产配置的投资决策提供参考
-    - 它还提供各资产的信息聚合二级页面，包括实时币价、最新空投活动、此代币快讯动态和 Twitter 上中文圈 Top KOL 对此代币的最新言论
-  5. 队长和队员
-    - Front-end Engineer: 小邵
-    - Back-end Engineer: Jerry
-    - UI/UX: 王三三
-  6. 本项目在这次黑客松的目标：
-    实现从 0 到 1 的 Web 端应用开发
-  7. 黑客松前两日的进度
-    - Day 1：UI 设计首稿，首页前端开发，NFT 合约开发及部署，线上数据爬取及实时数据 API 整理
-    - Day 2：UI 设计微调，二级页面前端开发，后端 Python 数据分析/推荐服务开发，前后端交互联调
-  8. Demo 视频链接：
-    [https://youtu.be/SbjOCqfm-M8](https://youtu.be/SbjOCqfm-M8)
-  9. 项目 Github Repo 链接：
-    [https://github.com/z6m8n7ljw/ETHBeijing-FolioView](https://github.com/z6m8n7ljw/ETHBeijing-FolioView)
-  10. 是否基于之前的项目：
-    否
+* 简介：一个面向新手的轻量级多钱包投资组合工具网站，它提供简洁友好的数据分析/信息聚合界面，基于链上数据赋予用户链上信用，并给出关于优化投资组合的推荐供新手用户参考
+* 目标：Web端Demo
+* 是否招募队员：接受，需要擅长web3-react和Data Visual的前端开发
+* 如何联系：WeChat ID: jerrykicks
+* Day 1 进度：一级页面完成；钱包连接和前后端交互完成
 # 6. Auto3 Copilot
 * 简介：Auto3 Copilot 结合GPT技术，使开发者能够快速、高效地生成 Web3 自动化程序。只需输入具体的需求，比如“每天帮我定投 1000 USDC 的 ETH”/“当有某个特性的 NFT 挂单价低于XX的时候自动买入”，然后会自动生成可一键运行的代码。
 * 目标：接口数据库：创建一个用于构造 Prompt 的链上智能合约与链下应用接口的数据库（因为时间问题可能不会太全），然后可以从中检索某个合约或应用的调用方式。开发基础功能：我们将完成 Auto3 Copilot 的核心功能，包括输入需求、基于 Auto3 SDK 生成自动化代码.创建示例项目：我们将开发几个示例项目，展示Auto3 Copilot在不同场景下的实际应用，例如DeFi策略自动化、NFT市场监控以及智能合约交互等。
@@ -164,89 +142,20 @@ ETH Beijing Hackathon 的项目需要提交到本页，PR（Pull-Request）截�
   * Day1: 完成了项目框架搭建；服务端功能已完成；合约完成度 50%；前端完成度 50%；
   * Day2: 完成了项目框架搭建；服务端功能已完成；合约完成度 90%；前端完成度 80%；
 
-项目提交信息：
-
-1. 项目名称: Puzzle3
-2. 所选赛道: Public Goods + Scroll
-3. 项目图片
 ![slides](https://mdn.alipayobjects.com/huamei_1hrimu/afts/img/A*X6JZQqoU4j8AAAAAAAAAAAAADp95AQ/original)
-4. 简介: Puzzle3 是一款通过智能合约交互实现的链上解谜、答题平台，让Web3 学习平台、区块链初创团队用户能够通过更直接、简洁、有趣的方式了解各自团队的产品；
-5. 队长和队员: jeason.eth(队长)、lqyx
-6. 本项目在这次黑客松的目标: 完成项目「从零到一」搭建并「上线」，同时支持 ETH Sepolia 和 Scroll Alpha 两个测试网，支持用户自定义创建 Puzzle、分享 Puzzle、用户进入解决 Puzzle，并在解决之后领取到独一无二的 NFT；
-7. 黑客松前两日的进度
-   * Day1: 完成了项目框架搭建；服务端功能已完成；合约完成度 50%；前端完成度 50%；
-   * Day2: 完成了项目框架搭建；服务端功能已完成；合约完成度 90%；前端完成度 80%；
-8. Demo 视频链接：（两个视频一样，传到了两个平台）
-   * Youtube: https://youtu.be/7dgUvHJjyAo
-   * 剪映：https://www.capcut.cn/share/7219553798975476995?t=1
-9. 项目 github repo 链接: [https://github.com/PandariaTeam/puzzle3](https://github.com/PandariaTeam/puzzle3)
-10. 是否基于之前的项目，如果有，给出详细信息: 否，完全在 Hackathon 期间开发
-11. 项目 Demo 链接（选填）：
-    * Default: [https://www.puzzle3.cc/](https://www.puzzle3.cc/)
-    * ETH Sepolia Testnet: [https://sepolia.puzzle3.cc/](https://sepolia.puzzle3.cc/)
-    * Scroll Alpha Testnet: [https://scroll-alpha.puzzle3.cc/](https://scroll-alpha.puzzle3.cc/)
 
 # 8. 九转以太坊
-## 8.1 项目名称
-
-Deep Stack Fantasy
-
-## 8.2 所选赛道
-
-Open Research
-
-## 8.3 项目图片
-
-![](https://s2.loli.net/2023/04/08/JQj2UwB49NoLesk.jpg)
-
-## 8.4 简介
-
-随着以太坊扩容技术的应用，智能合约的性能问题得到了改善，因此可将更多精力放在改善开发体验上。EVM 栈的访问限制是 Solidity 臭名昭著的 stack too deep 问题的源头，是时候消灭它们了。
-
-## 8.5 队长和队员
-
-- 队长： SadPencil
-- 队员：lwzhenglittle, yihao-guo, HTseaaat
-  
-## 8.6 目标
-
-给出修改后的以太坊客户端和 Solidity 编译器；并探讨新的客户端与编译器在 zkEVM 上运行的可能性。
-
-## 8.7 前两日进度
-
-- Day1
+* 简介：随着以太坊扩容技术的应用，智能合约的性能问题得到了改善，因此可将更多精力放在改善开发体验上。EVM 栈的访问限制是 Solidity 臭名昭著的 stack too deep 问题的源头，是时候消灭它们了。
+* 目标：给出修改后的以太坊客户端和 Solidity 编译器；若时间允许则在侧链运行智能合约进行演示。
+* 是否招募队员：接受，还剩 1 个空位，熟悉 EVM or 编译技术 or 链下通道的优先
+* 如何联系：WeChat ID: SadPencil
+* 第一天进度：
   - 为项目起了一个超棒的名字 `Deep Stack Fantasy`。
-  - 成功在 go-ethereum 上修改了 EVM，添加了 `DupE` 和 `SwapE` 指令及其实现。
-  - 初步阅读了 C++ 版 solidity 编译器的实现，探讨如何使用新添加的两个指令替代原有指令。
+  - 成功在 go-ethereum 上修改了 EVM，添加了 `DupE` 和 `SwapE` 指令及其实现。待测试。
+  - 初步阅读了 C++ 版 solidity 编译器的实现，探讨如何使用新添加的两个指令替代原有指令。未完成。
   - 调研了 Remix IDE 使用的 JavaScript 版本的 solidity 的编译方式，从 C++ 版 solidity 源代码编译 wasm。编译成功。
   - 具有 zkEVM 的 Scroll，是与本项目目的最为吻合的区块链 Layer-2 智能合约实现。与 Scroll 的工程师讨论零知识证明细节，尤其是确定了 [zkevm-circuits](https://github.com/scroll-tech/zkevm-circuits) 中关于 stack pointer offset 与零知识证明电路体积的关系是恒定的。因此确定在 zkEVM 上实现本项目是**完全可行**的。不过，此项目不是简单在 Scroll 上部署合约，而是修改 Scroll 的实现进而改善开发者体验，与工程师进一步讨论后，鉴于 Scroll 节点的运行要求过高（例如，至少 500 GB RAM），无法在黑客松比赛期间完成，留作未来工作。
-- Day2
-  - 初步实现了 Solidity 编译器对 `DupE` 和 `SwapE` 指令的支持并替代了原有指令。
-  - 解除了 Solidity 编译器中 stack too deep 的限制，能够编译出字节码，待测试。
-  - 上传 Emscripten Solidity 编译器到服务器以供 Remix-IDE 调用。
 
-## 8.8 Demo Video Link
-
-[Youtube Video](https://youtu.be/AiOXepNjYzw)
-
-## 8.9 GitHub Links
-
-[solidity-deep-stack](https://github.com/deep-stack-fantasy/solidity-deep-stack)
-
-[go-ethereum-deep-stack](https://github.com/deep-stack-fantasy/go-ethereum-deep-stack)
-
-## 8.10 是否基于以前项目
-
-否，本次比赛期间从零开始基于原版 [solidity](https://github.com/ethereum/solidity) 与 [go-ethereum](https://github.com/ethereum/go-ethereum) 进行修改。
-
-
-# 8.11 Demo Links
-
-[Remix-IDE with DSF Solidity Compiler](https://remix.ethereum.org/#lang=en&optimize=false&runs=200&evmVersion=null&version=https://124.220.19.52/soljson.js)
-
-[Example sol file](https://124.220.19.52/test100.sol)
-
-[DSF Solidity Compiler (solijson.js)](https://124.220.19.52/soljson.js)
 
 # 9. Web3Club
 
@@ -256,10 +165,6 @@ Open Research
 ### ⏩Scroll｜Bounty Track
 
 ## 🔗 项目链接：[Web3-Interactive-Learning](https://github.com/Web3-Club/Web3-Interactive-Learning/blob/main/README.md)
-
-## 💻 项目图片: 
-
-![](https://i.ibb.co/V9FhnBd/20230408132828.png)
 
 ## 😃 关于我们：[Web3Club](https://github.com/Web3-Club/Intro.)
 
@@ -299,94 +204,46 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 最后希望 得到更多参与活动的朋友、评委 及 赞助商 对我们的项目的评价和反馈 以及各位宝贵的建议💬 让我们继续进步下去
 
 ## ❓ 是否基于之前的项目
-参考开源项目 [vue-chat](https://github.com/Coffcer/vue-chat)
+否 这个项目对我们而言 是**完全全新的一次尝试** 
+包括学习内容 也在保证趣味性的前提下 与原来所做的Wiki以及知识文档 完全不同 
 
 ## 🔖 项目进度
 ### 📅 Day1
-#### ✅ 已完成
+#### ✅ 已结束
 - [x] 项目文档
 - [x] 项目文件目录 制作
 - [x] 用户学习主要内容 文本 制作 （Web1-Web3）
 - [x] 分支交互逻辑 设计 
 - [x] 未来 智能合约开发 路线 设计
-#### 🏗️ 已完成
-- [x] 前端 互动聊天界面 开发   
-- [x] 后端 分支交互逻辑设计嵌入 开发
-- [x] 智能合约 开发
-- [x] 用户学习主要内容 文本 制作 （Web1-Web3衍生内容 Dune)
+#### 🏗️ 正在Buidl
+- [ ] 前端 互动聊天界面 开发   
+- [ ] 后端 分支交互逻辑设计嵌入 开发
+- [ ] 智能合约 开发
+- [ ] 用户学习主要内容 文本 制作 （Web1-Web3衍生内容 Dune)
 
 ### 📅 Day2
-#### ✅ 已完成
+#### ✅ 已结束
 - [x] 前端 互动聊天界面 开发 
 - [x] 后端 分支交互逻辑设计嵌入 开发
 - [x] 智能合约 开发
- - SBT
- - Score
+ - acbt
+ - score
 - [x] 用户学习主要内容 文本 制作 （Web1-Web3衍生内容 Dune)
-
-## 📱 demo视频链接: [bilibili](https://www.bilibili.com/video/BV1PM4y117Ab/)
-
 
 ## 💬 如何联系：WeChat ID: YanboTravelAllWorld 
 
 # 10.DeshopDao 
-
-## 赛道
-### Public Good
-
-## 名称：Deshop-Credit
-### 基于区块链地址的信用评级工具
-
-## 项目图片
-![image](https://raw.githubusercontent.com/Rogary/EthBeijing-Credit/master/images/step2.png)
-
-## 简介：【基础设施】Deshop - 地址信用评级工具   
-  - （赛前已完成）构建区中心花的电商交易工具和平台，是的匿名的买卖双方通过去中心化的技术信任工具，达成交易。  
-    -- 卖家发布商品（可兑换NFT，支持虚拟产品和实物产品兑换）  
-    -- 多签钱包保证双方利益  
-  - （比赛内容）构建基于链上历史记录的地址信用评级工具。  
-    -- 基于历史链上金融数据和交易数据（金融+电商）  
-    -- 网页官网查询工具 + 浏览器插件工具  
-  - 电商平台与信用评级伴生，相互促进。  
-
-    项目链接：[Crypto-Address-Credit-Rating-Platform](https://github.com/Rogary/EthBeijing-Credit)   
-
-## 关于参赛团队：
-### WoodXu：产品经理
-### [rogary](https://github.com/Rogary/): 合约+后端
-### [bravehot](https://github.com/bravehot):前端
-     
-## 目标： 
-   1.第一版本Deshop 平台的上线（提前于赛前上线）  
-   2.Deshop 的地址信用评级工具(官网+浏览器插件)  
-   
-  * 构建与去中心化电商平台相伴生的，基于区块链地址的信用评级体系工具和平台。  
-  * 这个工具也可以完全单独使用，给其他项目（帮助识别信用更高的用户等）。  
-   
-## 进度：
-### 04-06进度：
- * 1)合约+后端：合约开发（20%） 
- * 2)前端：网页端（20%）  
-### 04-07进度：
- * 1)合约+后端：合约开发（100%）+后端（40%）  
- * 2)前端：网页端（40%）,网页插件工具（10%）  
-### 04-08进度：  
-* 1)合约+后端：合约开发（100%）+后端（40%）  
-* 2)前端：网页端（60%）,网页插件工具（40%）  
-
-
-## [Demo 视频链接](https://www.youtube.com/watch?v=K7gEv24V_6Q)
-
-
-## [项目github repo链接](https://github.com/Rogary/EthBeijing-Credit)
-
-
-## 是否基于之前的项目
-否，这个项目是完全单独的一部分，从产品功能设计等都是完全从0开始。 
-
-## [Demo](https://eth-beijing-hackathon.vercel.app/home)
-
-### 如何联系：WeChat ID: 18610773817
+* 简介：构建去中心化的电商平台，在可兑换礼品nft 和实物产品方面，给出第三方技术信任解决方案，使得互不认识的买卖家可以在利益被技术保障前提下，实现交易达成。同时尽量保全隐私，最终也要实现去中心化Dao治理。
+* 目标：1.第一版本DeshopDao平台的上线（可能提前于赛前上线） 2.DeshopDao 的地址信用评级工具 3.DeshopaDao Dao治理（可能赛后再做）
+* 是否招募队员：接受参赛同学加入，合约端，后端，前端都可以。
+* 如何联系：WeChat ID: 18610773817
+* 0406进度：
+* 1)合约+后端：合约开发（50%）
+* 2)前端：网页端（60%）
+* 0407进度：
+* 1)合约+后端：合约开发（90%）+后端（80%）
+* 2)前端：网页端（100%）,网页插件工具（10%）
+* 
 # 11. 0xtomb
 * 所选赛道：Public goods
 * 项目图片：![i3FHiQ.png](https://i.328888.xyz/2023/04/08/i3FHiQ.png)
@@ -456,61 +313,61 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 * 如何联系：WeChat ID: samuelzey
 * 第一天进度：完成前后端基本功能、规则引擎，完成circuit设计、circom开发，todo-测试circom，设计Credential规则
 * 第二天进度：完成度90%，具体包括完成前后端开发、电路编写和测试、合约编写和部署，还差部署到服务器和界面优化
-- # 17. Delibird
+# 17. Delibird
 
-  ### 1. 项目名称：ZKGift
+### 1. 项目名称：ZKGift
 
-  ### 2. 赛道
+### 2. 赛道
 
-  * 赛道：Layer2 & Scroll
+* 赛道：Layer2 & Scroll
 
-  ### 3. 项目图片：
+### 3. 项目图片：
 
-  ![zkgift](http://a1.qpic.cn/psc?/V54ZHT0N2EMkwX1UUQuD2JH78n3JZg3N/bqQfVz5yrrGYSXMvKr.cqb2xfiNiAeLbBS.ryNvccyLhY.HocP4nG3Rgt5vfSzbTzmpRD*b9vbpYyBRvb6AIhYqd1K9xAo0TNkPYfgN2E64!/b&ek=1&kp=1&pt=0&bo=.wbqA*sG6gMDFzI!&tl=1&vuin=476730702&tm=1680930000&dis_t=1680930267&dis_k=8fd89fc8f6ebeedd854c453a1f267c52&sce=60-1-1&rf=viewer_4)
+![zkgift](http://a1.qpic.cn/psc?/V54ZHT0N2EMkwX1UUQuD2JH78n3JZg3N/bqQfVz5yrrGYSXMvKr.cqb2xfiNiAeLbBS.ryNvccyLhY.HocP4nG3Rgt5vfSzbTzmpRD*b9vbpYyBRvb6AIhYqd1K9xAo0TNkPYfgN2E64!/b&ek=1&kp=1&pt=0&bo=.wbqA*sG6gMDFzI!&tl=1&vuin=476730702&tm=1680930000&dis_t=1680930267&dis_k=8fd89fc8f6ebeedd854c453a1f267c52&sce=60-1-1&rf=viewer_4)
 
-  ### 4. 简介
+### 4. 简介
 
-  * ZKGift是部署在zkSync和Scroll以太坊二层侧链上的Dapp，用于打赏捐赠和排名记录。
-  * 只需要一个准确的地址，可以是打赏给喜爱的内容博主，用户便能即刻向对方捐赠token，无需复杂的操作，通过智能合约确保捐赠记录公开透明，并形成简洁直观的捐赠排行榜。
-  * ZKGift的主要目标用户是[大量的粉丝群体]/[KOL]/[项目方]，为他们提供一个高效的无验证捐赠平台，完全根据个人意愿进行捐赠或回礼，界面风格简单易用，用户在任何时间，只需输入收款地址和金额即可直接捐赠，同时生成直观完整的捐赠排行榜。
-  * 输入受赏者地址可以检索到对应的捐赠排行榜，可以看到所有的捐赠者地址和各自的总捐赠金额。捐赠记录存储在映射中，数据公开透明，任何时刻都可查看。捐赠者可以实时查看他们对于某地址的捐赠排名，受赏者可以随时导出排行榜信息文件(address.csv)，也许可以依据排名，向捐赠者回赠对应的NFT空投或实体礼物。
+* ZKGift是部署在zkSync和Scroll以太坊二层侧链上的Dapp，用于打赏捐赠和排名记录。
+* 只需要一个准确的地址，可以是打赏给喜爱的内容博主，用户便能即刻向对方捐赠token，无需复杂的操作，通过智能合约确保捐赠记录公开透明，并形成简洁直观的捐赠排行榜。
+* ZKGift的主要目标用户是[大量的粉丝群体]/[KOL]/[项目方]，为他们提供一个高效的无验证捐赠平台，完全根据个人意愿进行捐赠或回礼，界面风格简单易用，用户在任何时间，只需输入收款地址和金额即可直接捐赠，同时生成直观完整的捐赠排行榜。
+* 输入受赏者地址可以检索到对应的捐赠排行榜，可以看到所有的捐赠者地址和各自的总捐赠金额。捐赠记录存储在映射中，数据公开透明，任何时刻都可查看。捐赠者可以实时查看他们对于某地址的捐赠排名，受赏者可以随时导出排行榜信息文件(address.csv)，也许可以依据排名，向捐赠者回赠对应的NFT空投或实体礼物。
 
-  ### 5. 队长和队员
+### 5. 队长和队员
 
-  - **Front-end Engineer**: Sodas[@0xbrowser](https://github.com/0xbrowser)
-  - **Contract Engineer**: Sodas[@0xbrowser](https://github.com/0xbrowser)
-  - **Product Manager**: Sodas[@0xbrowser](https://github.com/0xbrowser)
+- **Front-end Engineer**: Sodas[@0xbrowser](https://github.com/0xbrowser)
+- **Contract Engineer**: Sodas[@0xbrowser](https://github.com/0xbrowser)
+- **Product Manager**: Sodas[@0xbrowser](https://github.com/0xbrowser)
 
-  ### 6. 本项目在这次黑客松的目标
+### 6. 本项目在这次黑客松的目标
 
-  * 尽可能完成Dapp的制作，从合约部署到前端交互到开源上线，在过程中不断思考可行的创新点并尝试实现
+* 尽可能完成Dapp的制作，从合约部署到前端交互到开源上线，在过程中不断思考可行的创新点并尝试实现
 
-  ### 7. 黑客松前两日的进度
+### 7. 黑客松前两日的进度
 
-  * Day1：
-    * 完成合约，在Scroll部署并认证
-    * 前端主界面大致完成，调试API接口
-  * Day2：
-    * 在zkSync部署并认证
-    * 实现前端主要功能模块
-    * 逐步完善项目文档设计
+* Day1：
+  * 完成合约，在Scroll部署并认证
+  * 前端主界面大致完成，调试API接口
+* Day2：
+  * 在zkSync部署并认证
+  * 实现前端主要功能模块
+  * 逐步完善项目文档设计
 
-  ### 8. Demo 视频链接
+### 8. Demo 视频链接
 
-  - [Demo](https://www.bilibili.com/video/BV1ek4y1v7Xc/)
+- [Demo](https://www.bilibili.com/video/BV1ek4y1v7Xc/)
 
-  ### 9. 项目 github repo 链接
+### 9. 项目 github repo 链接
 
-  - [项目](https://github.com/0xbrowser/zkgift)
-  - [整体设计(miro)](https://github.com/EthBeijing-Terminal3/gpt_backend)
+- [项目](https://github.com/0xbrowser/zkgift)
+- [整体设计(miro)](https://github.com/EthBeijing-Terminal3/gpt_backend)
 
-  ### 10. 是否基于之前的项目
+### 10. 是否基于之前的项目
 
-  - 无，独立开发的原创项目
+- 无，独立开发的原创项目
 
-  ### 11. 项目 Demo 链接
+### 11. 项目 Demo 链接
 
-  - 制作中
+- 制作中
 
 # 18. 3CM from [MetaBorn](https://metaborn.me/)
 * 简介："跨链只有3厘米"
@@ -550,61 +407,15 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 * 目标：调研MEV现状，构建低延迟的区块链基础设施，构建准确率更高的恶意Token检测工具。
 * 是否招募队员：是 (希望你熟悉MEV)
 * 如何联系：WeChat ID: tcscry
-### 🗓️ Day3
-
-#### 🚀  进行中
-
-- [x] 准备项目展示材料，制作`ppt`。
-- [x] 开源一切相关代码，工具，开发代码仓库。
-- [x] 预处理几个典型的恶意Token，以供查询。
-
-### 最终提交
-**项目名称**：`Pioplat`
-
-**所选赛道**：Open Reserach
-
-**项目图片**：
-
-![](https://i.328888.xyz/2023/04/08/i3dyEv.png)
-
-
-
-**简介**：我们的项目专注于探索区块链` MEV`（矿工可提取价值）领域。我们开发了两个解决方案，分别应对这个领域中的两个著名的问题：网络信息延迟以及恶意 `erc20` 代币。具体而言，这场黑客松活动中，我们分析了过去两年的`MEV`数据【@klib】，开发了两个程序来展示我们的解决思路【@liyue-cs，@wangtsiao】。
-
--  💨 Pioplat: 一个基于 `geth` 客户端的程序，可以看作是`geth`变体，我们实现了降低网络延迟的算法，或者是节点选择策略。另外，我们还设计了 `relay` 机制以进一步降低延迟，这些`relay`节点单纯的转发消息，成本低廉，具备很好的可扩展性。
--  🔰 TFSniffer: 一种基于符号执行的恶意代币检查器。这里我们设计了几个固定模式来检查 `transfer` 函数中是否存在恶意操作，例如黑名单和白名单，或转账手续费。得益于强大的符号执行技术，我们可以遍历几乎所有的可执行路径，包括多个函数不同先后次序的路径。
--  🔍 MEV Scan: 通过Trace信息来搜集MEV相关交易，由于是通过Trace搜集，即使失败的交易可以被捕获到，相比[eigenphi](https://eigenphi.io/)，交易信息会更加全面。
-
-**队长和队员**：
-
-- ke, wang @kilb 
-- yue, li @liyue-cs
-- tsiao, wang @wangtsiao （队长）
-
-**本项目在这次黑客松的目标**：完成思路验证，最小可行化产品，获得大家的反馈。
-
-**黑客松前两日的进度**：
-
-🗓️ **Day1**
-
-- [x] 网络加速算法模型，`PoC`完成，将算法集成进`bnb smart chain`客户端。
-- [x] 恶意`Token`检测的规则初步设计完成，约束求解以及不可能路径的减支实现完成，前端以及UI设计完成。
-- [x] 使用`Big query`查询过去几年`Ethereum`上`MEV`交易，夹子交易的识别算法设计完成。根据规则编写`SQL`完成，因为数据量十分之大，正在持续检索中。
-
-🗓️ **Day2**
-
-- [x] 网络加速项目修补bug，打印日志，测试运行。
-- [x] 恶意Token检测项目完成获取合约源码、字节码功能，测试效果中。
-- [x] MEV Scanner项目数据量十分之大，正在持续检索中。
-
-**Demo视频链接**：https://www.bilibili.com/video/BV1cm4y1B78R【抱歉视频剪辑工具突然坏了，实际时长3分10秒，但首尾去掉后时长在3分钟以下。】
-
-**项目github repo链接**：https://github.com/mev3/0xdeadbeef
-
-**是否基于之前的项目**：否，之前仅仅是构思，这三天内高强度完成的代码实现。
-
-**项目Demo链接：**暂无，前端开发中。
-
+### 🗓️ Day1
+#### 🎉 已结束
+- [x] 网络加速算法模型，PoC完成，将算法集成进`binance smart chain`客户端。
+- [x] 恶意Token检测的规则初步设计完成，约束求解以及不可能路径的减支实现完成，前端以及UI设计完成。
+- [x] 使用Big query查询过去几年Ethereum上MEV交易，夹子交易的识别算法设计完成。根据规则编写SQL完成，因为数据量十分之大，正在持续检索中。
+#### 🚀 正在进行中
+- [ ] 恶意Token检测的后端RPC代实现
+- [ ] 恶意Token检测项目一个Bug等待解决，Debug
+- [ ] 网络加速项目的Relay Node待实现 开发
 
 
 # 21. FactLens DAO from [SoCity DAO](https://www.socitydao.org/)
@@ -647,75 +458,22 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 * https://gpad.online
 
 # 24. SLOADS
-
-**24.1 项目名称**: SLOADS
-
-**24.2 所选赛道**: Public Goods
-
-**24.3 项目图片**:
-
-![foundry](https://book.getfoundry.sh/images/foundry-banner.png)
-
-**24.4 简介**: 
-
-Foundry 是一个以太坊智能合约开发框架。SLOADS 项目准备给它添加一个 feature，能够非常方便检索智能合约里面的所有 storage slot，特别是动态数据结构的，如 Array，Map。基于此，开发者可以更加方便地深入探索链上智能合约的状态，比如查找某个 token 的所有持币地址。工作内容：需要修改 foundry，foundry-std 里面的 cheatcode，以及 foundry-evm。起因则是在完成[这个 ctf](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle) 时遇到了问题。
-
-**24.5 队长和队员**: 
-
-队长: [@liquan.eth](https://github.com/flyq) 队友：[@jjjpy](https://github.com/jpy1000)    [@clouds](https://github.com/clouds56)
-
-**24.6 本项目在这次黑客松的目标**
-
-目标：
-1. 修改 Foundry，能够在使用 Foundry 模版的 solidity 项目中的 test 中使用新增的几个 cheatcode。cheatcode 能够按照参数要求返回所有 storage slots 相关的信息。
-    ```solidity
-    function startMappingRecording() external;
-    function getMappingLength(address target, bytes32 slot) external returns (uint);
-    function getMappingSlotAt(address target, bytes32 slot, uint256 idx) external returns (bytes32);
-    function getMappingKeyOf(address target, bytes32 slot) external returns (uint);
-    function getMappingParentOf(address target, bytes32 slot) external returns (bytes32);
-    ```
-2. 新建一个合约本地测试 toolkit，用于简化和合约交互的命令。
-   1. 用可以读取其他任意语言生成的 abi，并发送合约，测试结果
-   2. 强类型语言，但在编写过程中可以有更简易的类型转换
-   3. 并根据合约 abi 的 Json 文件自动化转换输入命令的参数。
-
-**24.7 黑客松前两日的进度**
-
-- Day 0:
-  - [x] 完成组队，GitHub org&repo 的新建：https://github.com/0xevm
-  - [x] 细化任务：
-    1. 确定 cheatcode 的接口命名，并获取到对应的 function signature。
-    2. 给 revm 新增接口，能够提取此时的某个 Account（智能合约） 里面的 storage map 的 key。
-    3. 修改 foundry，当检查到调用的地址是 `CHEATCODE_ADDRESS`，且 function signature 满足条件时，调用底层的 revm 的新增接口，将结果（index 的 bytes 数组）返回。
-    4. Option，在前面的基础上，建立 index bytes 和 map 的联系，比如对于 Map1 和 Map2，能够知道某个某个 slot 里面的数据是属于哪个 map 的哪个 key，需要 修改 revm 来在执行时记录一些 Metadata
-    5. Option，将运行后的 evm 状态建立 snapshot，并存储为 json 文件，然后使用 forge inspect 时传入状态，获取此时所有的 storage layout。
-    6. Option，在前面的基础上，给 forge test --debug 新增 storage layout，方便开发在逐步调试时能够看到 bytecode 的变化。
-  - [x] 查看 foundry 文档，以及源码，确定修改路径。
-- Day 1:
-  - [x] 完成任务 1-4.
-  - [x] 新建一个 toolkit，并根据合约 abi 的 Json 文件自动化转换输入命令的参数。
-  - [x] 完成 team info 以及视频录制等。
-
-**24.8 视频链接**
-
-https://www.bilibili.com/video/BV1LT411x72Q/
-
-**24.9 项目 github repo 链接**
-
-所有代码都在
-
-https://github.com/0xevm
-
-
-**24.10 是否基于之前的项目**
-
-是的，该项目基于 [Foundry](https://github.com/foundry-rs/)，在 Foundry 的基础上新增了两个功能:
-* 一个是新增了一组 Storage slot 相关的 cheatcode： https://github.com/0xevm/sloads_demo#new-cheatcode
-* 新建 ETH-DANCE toolkit，用于简化和 VM 的交互。
-
-**24.11 项目 Demo 链接（选填）**
-https://github.com/0xevm/sloads_demo#sloads-demo----
+* 简介：Foundry 是一个以太坊智能合约开发框架。这个项目准备给他添加一个 feature，能够检索智能合约里面的所有 storage slot，特别是动态数据结构的，如 Array，Map。基于此，开发者可以更加方便地深入探索链上智能合约的状态，比如查找某个 token 的所有持币地址。工作内容：需要修改 foundry，foundry-std 里面的 cheatcode，以及 foundry 所依赖的 revm。起因则是在完成[这个 ctf](https://quillctf.super.site/challenges/quillctf-challenges/slot-puzzle) 时遇到了问题。
+* 目标：能够在 test 中使用新增的一个 cheat code 返回所有 storage slots index 的数组。
+* 是否招募队员：否
+* 链接：https://github.com/0xevm
+* 如何联系：WeChat ID: liquan_eth
+## 进度
+### day1
+- [x] 完成组队，GitHub org&repo 的新建：https://github.com/0xevm
+- [x] 确定要做的内容：
+  1. 确定 cheatcode 的接口命名，并获取到对应的 function signature。
+  2. 给 revm 新增接口，能够提取此时的某个 Account（智能合约） 里面的 storage map 的 key。
+  3. 修改 foundry，当检查到调用的地址是 `CHEATCODE_ADDRESS`，且 function signature 满足条件时，调用底层的 revm 的新增接口，将结果（index 的 bytes 数组）返回。
+  4. Option，在前面的基础上，建立 index bytes 和 map 的联系，比如对于 Map1 和 Map2，能够知道某个某个 slot 里面的数据是属于哪个 map 的哪个 key，需要 修改 revm 来在执行时记录一些 Metadata
+  5. Option，将运行后的 evm 状态建立 snapshot，并存储为 json 文件，然后使用 forge inspect 时传入状态，获取此时所有的 storage layout。
+  6. Option，在前面的基础上，给 forge test --debug 新增 storage layout，方便开发在逐步调试时能够看到 bytecode 的变化。
+- [x] 查看 foundry 文档，以及源码，确定修改路径。
 
 # 25. Signer
 ### 1.**项目名称**：
@@ -736,23 +494,19 @@ Layer 2 & Scroll
 
 ### 5.**队长和队员**
 团队成员都来自一家顶级 Web3 资管机构，拥有丰富的量化经验和 DeFi 研究经验，每个人都具备敏捷开发的能力，以下是团队成员介绍：
-
-​	**Sake.bit**
+​	Sake.bit
 
 * 队长
+
 * 主要负责：插件开发、产品架构设计、经济模型设计、白皮书撰写
 
-
-
-​	**Wizwu.eth**
+   Wizwu.eth
 
 * 队员
 
 * 主要负责：智能合约开发、后端开发、经济模型设计
 
-
-
-​	 **胖达**
+​	胖达
 
 * 队员
 
@@ -885,11 +639,10 @@ https://github.com/Silence1017/EtherWatchdog_Dapp/blob/main/EtherWatchdog.mp4
 
 ![dematch](https://user-images.githubusercontent.com/17985352/230534349-1daf3119-ef85-4539-982d-ebbc263056de.jpg)  
 * 简介：  
-  🤝 信任一直是人类社会交往的基石，尤其在物品流通与交易活动中，信任的作用至关重要。从古老的以物易物到如今的数字资产交易，人类始终试图确保交易的公平、安全与诚信，努力提高透明度。随着时代的发展，物品流通和交换模式不断演变，信任机制也在不断升级。  
-  传统的中心化物品流通交易在实践中面临诸多挑战，如信任度不足、中间环节繁琐、交易过程复杂、信息不对称以及数据篡改或丢失等安全问题。
-  💡  区块链技术作为一种分布式、去中心化的技术，在解决传统物品流通交易问题方面展现出显著优势。通过加密算法和共识机制，区块链技术确保了数据的完整性和可靠性，从而提升了交易的安全性和真实性，使参与方能够在无需中心化第三方机构的情况下建立信任。  
-  近年来，Layer2 和 zk 技术的发展为区块链在物品流通交易领域的优化注入了新动力。Layer2 方案和 zk 技术进一步提升了区块链的扩展性、安全性、可靠性和交易速度，有助于降低信任成本，提高交易效率。 
-  🌟  DeMatch 是基于 Scroll 的 Web3.0 物品交易 match 平台。DeMatch 使用智能合约作为中间人、引入加密货币支付和去中心化存储等技术，为 Web3.0 用户提供了一个安全、透明、高效的交易保障。  
+🤝 信任一直是人类社会交往的基石，尤其在物品流通与交易活动中，信任的作用至关重要。从古老的以物易物到如今的数字资产交易，人类始终试图确保交易的公平、安全与诚信，努力提高透明度。随着时代的发展，物品流通和交换模式不断演变，信任机制也在不断升级。传统的中心化物品流通交易在实践中面临诸多挑战，如信任度不足、中间环节繁琐、交易过程复杂、信息不对称以及数据篡改或丢失等安全问题。区块链技术作为一种分布式、去中心化的技术，在解决传统物品流通交易问题方面展现出显著优势。通过加密算法和共识机制，区块链技术确保了数据的完整性和可靠性，从而提升了交易的安全性和真实性，使参与方能够在无需中心化第三方机构的情况下建立信任。  
+近年来，Layer2 和 zk 技术的发展为区块链在物品流通交易领域的优化注入了新动力。Layer2 方案和 zk 技术进一步提升了区块链的扩展性、安全性、可靠性和交易速度，有助于降低信任成本，提高交易效率。  
+💡 DeMatch 的创意受到了近期 $ARB 空投活动的启发。在代币正式开启交易之前，有些人希望进行场外交易，然而陌生人之间进行这类交易时很难建立足够的信任。为此，大部分场外交易采用了中间人担保的双质押模式，即交易双方需质押相等的保证金。在空投代币发放后，中间人则负责确保交易的顺利进行。尽管如此，这种模式中的中间人角色处理起来颇具挑战性，因为找到能让交易双方都信任的中间人并不容易。  
+🌟 DeMatch 是基于 Scroll 的 Web3.0 物品交易 match 平台。DeMatch 使用智能合约作为中间人、引入加密货币支付和去中心化存储等技术，为 Web3.0 用户提供了一个安全、透明、高效的交易保障。  
 ## 1️⃣ DeMatch V1  
 ⚖️ 去中心化撮合中间人。DeMatch 使用智能合约作为撮合中间人，实现了交易双方的自动撮合和交易执行，无须第三方大大降低了信任成本。此外，DeMatch 采用去中心化存储，确保平台数据的安全、可靠、不可篡改。并且可以指定交易人，支持链上资产与实物的撮合交易。  
 ![match](https://user-images.githubusercontent.com/17985352/230704453-1a23ceae-3db8-4465-9ae8-7c971546a728.png)  
@@ -1040,10 +793,12 @@ Day2：前端进行UI开发，完成基础前端逻辑，完成circom verifier�
 # 33 智客团队（ZHKMC Team）
  项目名称：Novel DAO
 * 简介：Novel DAO是一个基于区块链的去中心化小说平台，旨在促进作者与读者之间的自由合作与创作。通过Web3技术、加密货币和智能合约，实现全球访问、安全交易和社区治理，推动小说创作的创新和发展。
-* ![cover.png]([https://github.com/Novel-Dao/novel-dao/blob/main/images/pc.png](https://raw.githubusercontent.com/Novel-Dao/novel-dao/main/images/cover.jpg)
-
-* 目标：完成初版项目开发和展示，并积极深度参与以太坊生态。 
+* 目标：完成比赛的项目开发和展示。
+* 目标：完成初版项目开发和展示，并积极深度参与以太坊生态。
+* 
 * 是否招募队员：否。
+* 项目进度：
+- 4月6日： （1）前端页面UI设计与制作：用户端，作者端；（2）核心合约编写； （3）核心业务技术实现方案讨论；
 * 是否基于之前的项目：否。
 
 * **赛道：L2**
@@ -1062,10 +817,10 @@ Dapp端：https://github.com/Novel-Dao/novel-dao
 ## 项目截图
 
 * 电脑端首页：
-![pc.png](https://github.com/Novel-Dao/novel-dao/blob/main/images/pc.png)
+![]([https://github.com/Novel-Dao/novel-dao/blob/main/images/pc.png]
 
 * 移动端首页：
-![wap.png](https://github.com/Novel-Dao/novel-dao/blob/main/images/wap.png)
+![]([https://github.com/Novel-Dao/novel-dao/blob/main/images/wap.png]
 
 
 ## 项目进度：
@@ -1313,7 +1068,6 @@ Founder & Developer: Jason Wang
 * 第一天进度: (1)前端完整交互流程搭建完成(包括钱包/邮箱登录,产品使用交互); (2)接入 openai API 并测试使用;
 * 第二天进度: (1)调试完 openai API 并开发了数据处理; (2)调试并优化了产品的整个交互流程; (3)正在准备产品使用教程;(4)产品公测上线的前期准备
 ## 41.6 Demo Video 
-https://youtu.be/Mv_tg4qfnXI
 ## 41.7 Github Repo
 https://github.com/ModelLabs/BlockModel-frontend/tree/eth-beijing
 ## 41.8 是否基于之前的项目
@@ -1326,20 +1080,12 @@ https://block-model.com
 * 目标：会认识很多开发者朋友 会进一步完善wallet
 * 是否招募队员：否
 # 43 Trusta Labs
-* 项目名称：基于lens项目的女巫识别算法(改进)
-* 赛道：Open Research
-![image](https://user-images.githubusercontent.com/85626196/230702805-76c0ecb7-2599-44a5-80cd-54a0e1d642da.png)
 * 简介：TrustaLabs 旨在为web3项目和团队提供在空投、市场活动、捐赠等等场景的用户分析和女巫识别。TrustScan完全基于链上数据，集合资金网络分析、行为序列等多种识别策略，通过AI算法整合输出结果，
-* 队长和队员：Austen
-* 目标：提升女巫算法的覆盖面及准确性
+* 目标：完成基于某项目的女巫识别
 * 是否招募队员：否
 * 项目进度第一天进度基于lens项目的女巫识别，用sql完成数据的获取工作(所有数据来源于footprint),
 * 项目进度第二天用python完成基于资金网络团伙识别、及批量操作合约的团伙识别。
-* [Demo视频链接](https://youtu.be/FBxCbyPc4Dw)
 * [项目链接](https://github.com/gihubsfy/sybil_detect)
-* [基于之前的项目](https://www.trustalabs.ai/trustscan) 产品目前已使用的五大维度 批量操作、星型结构团伙、链式结构团伙、时间序列、黑名单
-* [项目demo链接](https://github.com/gihubsfy/sybil_detect/blob/main/lens_sybil_detect.pdf)
-
 
 # 44 TxRouter
 ![TxRouter](https://img.gejiba.com/images/abde173f088ffb397ea43d77a60dcd58.png)
@@ -1409,6 +1155,39 @@ TODO
 * 目标：完成展示demo
 * 是否招募队员：是 如果熟练前端、合约最好了
 * 如何联系：Wechat ID: web3hooks
+
+## 47.1✨ 项目名称
+### GptClick
+
+## 47.2🎊 所选赛道
+### Public Goods
+
+## 47.3🎇 项目图片
+## ![i3oGcy.png](https://i.328888.xyz/2023/04/08/i3oGcy.png)
+
+## 47.4🎆 简介
+* 我们已成功实现了使用 AI 辅助用户执行链上合约的功能，通过自然语言生成交互按钮。在理想的使用场景中，当用户输入“eth价格小于1000，帮我买1个”，系统会自动创建一个按钮，用户点击后便可生成链上dex订单。同样，当用户输入“mint最近发行的NFT”，按钮交互后将直接获得相应的NFT。此外，输入“我想领取arb币”的请求，点击相应的按钮交互后，用户便可直接领取到arb代币。这些功能为用户提供了更加便捷的链上交互体验。
+
+## 47.5🎡 队长和队员
+* hooks
+
+## 47.6🎮 本项目在这次黑客松的目标
+* 完成了ChatGPT在多场景下的自然语言识别转换为交互按钮的逻辑触发。
+* 验证了ChatGPT能够辅助用户完成链上的操作。
+
+## 47.7🎃 黑客松前三日的进度
+* 4 月 6 日进度同步：开始了前端的构建
+* 4 月 7 日进度同步：搭建了Uniswap的组件.
+* 4 月 8 日进度同步：接入了OpenAI的接口，完成了程序的主要逻辑和部署。
+
+## 47.8🎄 Demo 链接
+### https://gptclick.xyz
+
+## 47.9🎄 Demo 视频链接
+### 
+
+## 47.10🎀 项目 github repo 链接
+### [GptClick](https://github.com/gptclick/web)
 # 48 RoochNetwork
 * 简介：RoochNetwork 是一个 Ethereum 上的模块化 Layer2，当前正在研发中。Rooch 的设计方案里，我们提出了一种 Rollup State Tree，用于实现状态从 Layer1 到 Offchain 的迁移。基于这套方案可以实现大规模的 NFT 发行，以及 NFT 在 Layer1 和 Offchain 存储之间的迁移。我们认为这个方案非常适合用在 AIGC 场景，所以打算用这套方案实现一个 AIGC 的 NFT 发行的 demo。
 * 目标：设计一个基于 Rollup State Tree 的 NFT 发行方案，并提供一个和 AIGC 结合的 demo，并提出一个 ERC721 改进的 EIP。
@@ -1421,16 +1200,10 @@ TODO
 * 是否招募队员：是 招前端。
 * 如何联系：微信名：S creaM
 # 50 GetGas
-* 名称：GetGas
 * 简介：GetGas 是一个交易可执行最小 GasFee 预测系统。
-* 赛道：Public Goods
 * 目标：完成展示和说明。
-* 队长：33357.eth。
-* 目标：完成项目展示和说明。
-* 进度：完成项目demo 和 PPT。
-* github：https://github.com/33357/gas-home。
-* demo：https://gas.33357.club/。
-* 演示：https://www.youtube.com/watch?v=xkzoMkAFGI8
+* 是否招募队员：是 招PPT制作和前端。
+* 如何联系：微信名：im33357（备注 eth Beijing）
 # 51 HyperNFT In Scroll
 ## 简介：
 项目队长共同参与开发并提交的 EIP-5489正式成为ERC标准。此标准通过允许将超链接嵌入 NFT 的元数据（Metadata）卡槽来扩展 ERC-721 的新功能，如此 NFT 的受众可以点击并跳转到任何指定URI 落地页，这给予了NFT的Utility相当的想象空间。NFT除了作为头像展示还有什么Utility？

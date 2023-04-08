@@ -428,33 +428,15 @@ Demo制作顺利的话 未来我们会将其 作为我们团队的主线开发�
 * 是否基于之前的项目: 无
 * 项目 Demo 链接: 无
 # 13. GasLockR
-### 1/ 赛道：Layer-2
-### 2/ 项目图片：https://github.com/GasLockR/Overview/blob/main/Logo.png
-### 3/ 简介：
-* We built the first trustless GasFi protocol. GasLockR uses Axiom, a ZK coprocessor for trustlessly reading historical gas prices to provide verifiable correctly priced GasFi derivatives based on financial models that are updated in real time. GasLockR is interoperable with other protocols and can be used as foundational on-chain infrastructure to build protocols and services that will solve the reliability, onboarding and UX problems we face today.
-
-* We provide an efficient way to hedge against the risk of rising gas prices, allowing users and organisations to rely on L2's. Services that operate on-chain will finally be able to provide SLAs (Service Level Agreements) to their users, building trust and acting as a catalyst for web3 adoption.
-
-* With our trustless financial derivatives product, other wallets or services can build on reliable infrastructure for hedging gas fees. With account abstraction (ERC-4337), paymasters provide a way for someone else to pay your gas fees so that the user don't need any tokens in their wallet to start interacting on chain. For example, they can pay a monthly subscription fee to a paymaster in fiat to be able to submit up to 100 transactions in a month. Or a service could offer to pay for your first 5 transactions using their service.
-
-* With account abstraction (ERC-4337), users can create a session key just like logging into a game where they pre-approve particular transactions. Wallets can leverage this to automatically submit transactions on the user's behalf without them having to manually approve them and specify a gas price. Together with account abstraction, GasLockR allows wallets to provide a seamless user experience where the user is not even aware that gas prices exist.
-
-* We built GasInsure, an insurance service as a demonstration of how GasLockR can be used as financial infrastructure to build amazing services.
-
-* GasInsure is an insurance service that aims to provide users with protection against gas price fluctuations on L2's.
-
-* Through a simple web GUI users can purchase insurance specifying how long they would like the protection for and pay a small premium to be protected against the tail risk of gas price fluctuations.
-
-### 4/ 团队成员：[秦张弛](https://github.com/Qinsir7)|Leader，[叶啸天](https://github.com/chiguayeshao)，[周贤渊](https://github.com/zhouxianyuan)，[Alex Cheema](https://github.com/AlexCheema)
-### 5/ 目标：从0到1丰富idea并进行开发实践，根据GasLockR协议，实现MVP。
-### 6/ 进度：
-* 周四：讨论idea，丰富GasLockR协议架构，尝试最小化产品合约，尝试利用Axiom，搭建前端框架，尝试交互。
-* 周五：根据真实gas price数据搭建数学预测模型，更新合约，尝试交互，讨论迭代方案。
-### 7/ Demo视频链接：https://www.youtube.com/watch?v=fprzRbCeay4
-### 8/ Github：https://github.com/GasLockR
-### 9/ 是否基于之前项目：否
-### 10/ 项目Demo链接：https://gaslockr.azurewebsites.net/
-
+* 简介：Layer-2的gas price保险，提供个性化的服务。我们预估本项目属于轻量级产品，更侧重创新性与用户友好度。
+* 目标：从0到1开发，实现MVP，并有良好的UI呈现。
+* 是否招募队员：UI设计
+* 如何联系：WeChat ID: 844416650
+* Github：https://github.com/GasLockR
+* 赛道：Layer-2s
+* 进度：
+  周四：完成第一版合约与前端模版，讨论迭代方案，尝试实现交互。
+  周五：完成gas price的数学预测模型，更新合约，尝试前端与合约交互。
 # 15. MentorMachines AI
 * 简介：Captivating AI-powered animated mentor, who unravels the secrets of Ethereum and Scroll, while you seize the opportunity to conquer quizzes and claim NFT rewards on Scroll. 引人入胜的AI驱动的动画导师（会说话的脸），揭示以太坊和Scroll的秘密，同时您抓住机会征服测验并在Scroll上领取NFT奖励。
 * 目标：Web Application. Animated AI. NFT.
@@ -1427,6 +1409,39 @@ TODO
 * 目标：完成展示demo
 * 是否招募队员：是 如果熟练前端、合约最好了
 * 如何联系：Wechat ID: web3hooks
+
+## 47.1✨ 项目名称
+### GptClick
+
+## 47.2🎊 所选赛道
+### Public Goods
+
+## 47.3🎇 项目图片
+## ![i3oGcy.png](https://i.328888.xyz/2023/04/08/i3oGcy.png)
+
+## 47.4🎆 简介
+* 我们已成功实现了使用 AI 辅助用户执行链上合约的功能，通过自然语言生成交互按钮。在理想的使用场景中，当用户输入“eth价格小于1000，帮我买1个”，系统会自动创建一个按钮，用户点击后便可生成链上dex订单。同样，当用户输入“mint最近发行的NFT”，按钮交互后将直接获得相应的NFT。此外，输入“我想领取arb币”的请求，点击相应的按钮交互后，用户便可直接领取到arb代币。这些功能为用户提供了更加便捷的链上交互体验。
+
+## 47.5🎡 队长和队员
+* hooks
+
+## 47.6🎮 本项目在这次黑客松的目标
+* 完成了ChatGPT在多场景下的自然语言识别转换为交互按钮的逻辑触发。
+* 验证了ChatGPT能够辅助用户完成链上的操作。
+
+## 47.7🎃 黑客松前三日的进度
+* 4 月 6 日进度同步：开始了前端的构建
+* 4 月 7 日进度同步：搭建了Uniswap的组件.
+* 4 月 8 日进度同步：接入了OpenAI的接口，完成了程序的主要逻辑和部署。
+
+## 47.8🎄 Demo 链接
+### https://gptclick.xyz
+
+## 47.9🎄 Demo 视频链接
+### 
+
+## 47.10🎀 项目 github repo 链接
+### [GptClick](https://github.com/gptclick/web)
 # 48 RoochNetwork
 * 简介：RoochNetwork 是一个 Ethereum 上的模块化 Layer2，当前正在研发中。Rooch 的设计方案里，我们提出了一种 Rollup State Tree，用于实现状态从 Layer1 到 Offchain 的迁移。基于这套方案可以实现大规模的 NFT 发行，以及 NFT 在 Layer1 和 Offchain 存储之间的迁移。我们认为这个方案非常适合用在 AIGC 场景，所以打算用这套方案实现一个 AIGC 的 NFT 发行的 demo。
 * 目标：设计一个基于 Rollup State Tree 的 NFT 发行方案，并提供一个和 AIGC 结合的 demo，并提出一个 ERC721 改进的 EIP。
